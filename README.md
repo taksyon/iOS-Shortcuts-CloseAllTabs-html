@@ -7,3 +7,5 @@ https://www.icloud.com/shortcuts/266b332b2cba406faff26ff7a91576ab
 
 Github Pages link for this repository that will run the shortcut from Safari:
 https://anbardoi.github.io/iOS-Shortcuts-CloseAllTabs-html/
+
+After getting the shortcut installed and navigating to the above site, iOS will prompt you to open the github page in Shortcuts. For the first time, click 'Cancel'. It will just be a blank web page, but add it to your favorites, and display favorites on your Safari start page. Boom, you have a close all tabs shortcut. right there in safari. It's a wonder isn't it?
