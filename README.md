@@ -4,3 +4,6 @@ Simple html page to automatically run any shortcut titled ‘Close Tabs’ on yo
 
 iCloud link to 'Close Tabs' shortcut I made: 
 https://www.icloud.com/shortcuts/266b332b2cba406faff26ff7a91576ab
+
+Github Pages link for this repository that will run the shortcut from Safari:
+https://anbardoi.github.io/iOS-Shortcuts-CloseAllTabs-html/
