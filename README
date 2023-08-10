@@ -1,1 +1,4 @@
 Simple html page to automatically run any shortcut titled ‘Close Tabs’ on your iOS device. Pretty much only created this because I'm sick of swiping all my tabs away on Safari. You can fork this repository, create a github pages site and save the site to your favorites(in Safari) which you can display on Safari start page. As long as you have a shortcut titled 'Close Tabs' on your iPhone it will run that shortcut right from your Safari start page.
+
+iCloud link to 'Close Tabs' shortcut I made: 
+https://www.icloud.com/shortcuts/266b332b2cba406faff26ff7a91576ab
